@@ -2,8 +2,6 @@
 # Amazona ECommerce Website
 ![amazona](/frontend/images/jsamazona.jpg)
 
-# JavaScript Tutorial - Full ECommerce in 7 Hours [2021]
-
 Welcome to my React and Node tutorial to build a fully-functional e-commerce website exactly like amazon. Open your code editor and follow me for the next hours to build an e-commerce website using Vanilla JavaScript and Node.JS, ExpressJS and MongoDB.
 
 
@@ -48,7 +46,7 @@ PAYPAL_CLIENT_ID="your paypal client id" or sb
 ### 4. Run Backend
 
 ```
-$ npm install
+$ npm install 
 $ npm run build
 $ npm start
 ```
@@ -76,13 +74,6 @@ $ npm start
 - Click Create Product Button
 - Enter Product Information
 - Go to home page (http://localhost:8080) and test Ecommerce Website
-
-## Support
-
-- Q/A: https://codingwithbasir.com
-- Contact Instructor: [Basir](mailto:basir.jafarzadeh@gmail.com)
-
-
 # Features
 
 1. Home Screen
